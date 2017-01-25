@@ -2,7 +2,11 @@
 
 ----------------------------------
 First Name : Barath
+
 Last Name  : Naravula Loganathan
+
 Class Id   : 28
-UMKC Id    : bnzt6@mail.umkc.edu
+
+UMKC email : bnzt6@mail.umkc.edu
+
 ----------------------------------
