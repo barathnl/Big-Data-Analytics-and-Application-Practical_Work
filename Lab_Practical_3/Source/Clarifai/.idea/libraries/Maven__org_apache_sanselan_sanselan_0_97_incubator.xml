@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <component name="libraryTable">
   <library name="Maven: org.apache.sanselan:sanselan:0.97-incubator">
     <CLASSES>
@@ -10,4 +11,18 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator-sources.jar!/" />
     </SOURCES>
   </library>
+=======
+<component name="libraryTable">
+  <library name="Maven: org.apache.sanselan:sanselan:0.97-incubator">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sanselan/sanselan/0.97-incubator/sanselan-0.97-incubator-sources.jar!/" />
+    </SOURCES>
+  </library>
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c
 </component>

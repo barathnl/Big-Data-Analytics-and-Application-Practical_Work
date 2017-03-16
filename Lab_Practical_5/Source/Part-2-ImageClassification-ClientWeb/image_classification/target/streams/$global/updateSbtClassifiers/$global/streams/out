@@ -10,7 +10,10 @@
 [debug] == resolving dependencies default#image_classification$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
 [info] Resolving org.scala-sbt#sbt;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.13.8 {default=[default(compile)]}
+<<<<<<< HEAD
 [debug] no default cache defined: set to /home/barath/.ivy2/cache
+=======
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.8
 [debug] 	found org.scala-sbt#sbt;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#sbt;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -145,6 +148,10 @@
 [debug] == resolving dependencies org.scala-sbt#actions;0.13.8->org.scala-sbt#api;0.13.8 [compile->default(compile)]
 [info] Resolving org.scala-sbt#api;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#api;0.13.8 {compile=[default(compile)]}
+<<<<<<< HEAD
+=======
+[debug] no default cache defined: set to C:\Users\Manikanta\.ivy2\cache
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#api;0.13.8
 [debug] 	found org.scala-sbt#api;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#api;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -704,9 +711,15 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
+<<<<<<< HEAD
 [debug] :: resolution report :: resolve 1849ms :: artifacts dl 84ms
 [debug] 	report for default#image_classification$sbt_2.11;1.0 default produced in /home/barath/Spring_2017/CS5542_BDAA/CS5542_BDAA_LabAssignment/Lab_Practical_5/Source/ImageClassification/image_classification/target/resolution-cache/reports/default-image_classification$sbt_2.11-default.xml
 [debug] 	resolve done (1849ms resolve - 84ms download)
+=======
+[debug] :: resolution report :: resolve 616ms :: artifacts dl 41ms
+[debug] 	report for default#image_classification$sbt_2.11;1.0 default produced in C:\Users\Manikanta\Documents\UMKC Subjects\GA\Tutorial5\Latest\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sbt_2.11-default.xml
+[debug] 	resolve done (616ms resolve - 41ms download)
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#image_classification$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1070,6 +1083,12 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
+<<<<<<< HEAD
 [debug] :: resolution report :: resolve 156ms :: artifacts dl 65ms
 [debug] 	report for default#image_classification$sources_2.11;1.0 default produced in /home/barath/Spring_2017/CS5542_BDAA/CS5542_BDAA_LabAssignment/Lab_Practical_5/Source/ImageClassification/image_classification/target/resolution-cache/reports/default-image_classification$sources_2.11-default.xml
 [debug] 	resolve done (156ms resolve - 65ms download)
+=======
+[debug] :: resolution report :: resolve 197ms :: artifacts dl 73ms
+[debug] 	report for default#image_classification$sources_2.11;1.0 default produced in C:\Users\Manikanta\Documents\UMKC Subjects\GA\Tutorial5\Latest\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-default.xml
+[debug] 	resolve done (197ms resolve - 73ms download)
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: Naga
 Created-By: IntelliJ IDEA
 Build-Jdk: 1.8.0_101
 
+=======
+Manifest-Version: 1.0
+Built-By: Naga
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_101
+
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c

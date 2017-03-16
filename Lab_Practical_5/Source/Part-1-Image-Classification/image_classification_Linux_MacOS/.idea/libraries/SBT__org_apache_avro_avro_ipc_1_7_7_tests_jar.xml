@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <component name="libraryTable">
   <library name="SBT: org.apache.avro:avro-ipc:1.7.7:tests:jar">
     <CLASSES>
@@ -6,4 +7,14 @@
     <JAVADOC />
     <SOURCES />
   </library>
+=======
+<component name="libraryTable">
+  <library name="SBT: org.apache.avro:avro-ipc:1.7.7:tests:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.avro/avro-ipc/jars/avro-ipc-1.7.7-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+>>>>>>> 002582f14de96dee5652615aad5e99e8045a3d3c
 </component>
